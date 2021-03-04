@@ -12,7 +12,6 @@ mybatis-plus:
 spring:
   datasource:
     driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
-    # type: com.alibaba.druid.pool.DruidDataSource
     url: jdbc:sqlserver://ip:1433;databaseName=xxx
     username: xxx
     password: xxx
